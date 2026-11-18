@@ -2,10 +2,10 @@
 
 Aplicação web desenvolvida em PHP para a disciplina de Fundamentos de Programação para Internet (UNIPAR EAD).
 
-**Aluna:** Isabella Nunes Betim do Prado
-**RA:** 09066502
-**Curso:** Analise e Desenvolvimento de Sistemas
-**Polo:** cascavel
+- **Aluna:** Isabella Nunes Betim do Prado
+- **RA:** 09066502
+- **Curso:** Análise e Desenvolvimento de Sistemas
+- **Polo:** Cascavel
 
 ## Descrição
 
